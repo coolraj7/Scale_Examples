@@ -4,7 +4,7 @@ class First {
 }
 
 object HelloObj extends App{
-  //def main(args:Array[String])
+  
   {
   val hello = new First()
   hello.SayHi()
