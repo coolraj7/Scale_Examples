@@ -1,6 +1,6 @@
 
 
-/**
+package com.scala.deepu/**
  * @author coolraj7
  */
 class Six(val size:Int, val age:Int) {

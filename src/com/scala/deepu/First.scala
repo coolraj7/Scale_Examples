@@ -1,4 +1,6 @@
 
+package com.scala.deepu
+
 class First {
   def SayHi() = println("Hello Guys")
 }

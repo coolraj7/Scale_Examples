@@ -1,4 +1,4 @@
-/**
+package com.scala.deepu/**
  * @author coolraj7
  */
 class Eight {

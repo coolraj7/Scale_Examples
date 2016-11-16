@@ -2,6 +2,8 @@
 
 
 
+package com.scala.deepu
+
 object SingletonReservation{
   private var lastNum=0;
   def newReservationNumber() ={lastNum+=1;lastNum}
