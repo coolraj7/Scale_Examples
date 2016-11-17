@@ -15,7 +15,7 @@ abstract class Vehicle(val manufacturer: String)
 class Car(manufacturer: String, var wheelSize: Double) extends Vehicle(manufacturer){
   def this(wheelSize: Double) = this("Ferrari", wheelSize)
 }
-class Plane(manufacturer: String, var maxHeight) extends Vehicle(manufacturer)
+//class Plane(manufacturer: String, var maxHeight) extends Vehicle(manufacturer)
 
 
 object Trn22 {
