@@ -1,10 +1,7 @@
-
-
+package com.scala.deepu
 /**
  * @author coolraj7
  */
-
-package com.scala.deepu
-      class Nine(id: Int) {
-        def description = "Employee id is: " + id
-      }
+class Nine(id: Int) {
+  def description = "Employee id is: " + id
+}
