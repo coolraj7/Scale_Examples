@@ -5,7 +5,7 @@ package com.scala.deepu
  */
 
 class Cats(val tailSize: Double) {
-  
+
 }
 
 class Dogs private (val earSize: Double) {
@@ -23,6 +23,6 @@ object PrvCons {
   println("Dog's earSize  =" + dog.earSize)
 
   def main(args: Array[String]): Unit = {
-  println("We are Testing from main method")
+    println("We are Testing from main method")
   }
 }
